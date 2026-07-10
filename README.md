@@ -18,4 +18,4 @@ My own project
 ## WHAT PROBLEM IT HOPS TO SOLVE
 ## WHAT THE INTENDED USE IS
 ## **CREDIT** *ITALIC*
-![ Penguin ]([https://displate.com/displate/8513324](https://www.gettyimages.com/detail/photo/emperor-family-royalty-free-image/1140485035?adppopup=true))
+![ Penguin ]([https://displate.com/displate/8513324](https://www.gettyimages.com/detail/photo/emperor-family-royalty-free-image/1140485035?adppopup=true)
