@@ -5,3 +5,8 @@ My own project
 ### anyone should understand our project
 ## List the content of the repository
 ## clearly explains the project to others
+## TITLE
+## DESCRIPTION OF TECHNOLOGY
+### WHY
+## DESCRIPTION OF THE PROCESS
+### WHY
